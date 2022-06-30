@@ -1,0 +1,14 @@
+[
+  {
+    "workflow_name": "download_sra",
+    "workflow_url": "./download-sra.cwl",
+    "workflow_type": "CWL",
+    "workflow_type_version": "v1.0",
+    "workflow_attachment": [
+      {
+        "file_name": "download-sra.cwl",
+        "file_url": "file:///workflows/download-sra/download-sra.cwl"
+      }
+    ]
+  }
+]
